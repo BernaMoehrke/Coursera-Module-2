@@ -1,5 +1,6 @@
 /* Base Styles */
-*{box-sizing:border-box
+*{
+box-sizing: border-box;
 }
 
 h1 {
@@ -9,7 +10,7 @@ h1 {
 }
 
 body {
-	background image: url ("background.jpg");
+	background-image: url ("background.jpg");
 	background-color: #FEF5CA;
 }
 
@@ -19,7 +20,7 @@ p {
 }
 
 .container {
-	border:none;
+	border: none;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 10px;
@@ -34,8 +35,8 @@ section {
 	height: 200px;
 	font-family: Helvetica;
 	color: black;
-	position:relative;
-	overflow:auto;
+	position: relative;
+	overflow: auto;
 }
 
 #chicken {
@@ -44,7 +45,7 @@ section {
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia, sans-serif;
-	font-weight:bold;
+	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top:0;
@@ -53,13 +54,13 @@ section {
 
 }
 
-#Beef {
+#beef {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia, sans-serif;
-	font-weight:bold;
+	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top:0;
@@ -68,17 +69,18 @@ section {
 
 	}
 
-#Sushi {
+#sushi {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia, sans-serif;
-	font-weight:bold;
+	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top:0;
 	padding: 5px;
+	color: white;
 	background-color: #6495ED;
 
 	}
