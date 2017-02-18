@@ -11,7 +11,7 @@ h1 {
 
 body {
 	background-image: url ("background.jpg");
-	background-color: #006253;
+	background-color: #FFF5EE;
 }
 
 p {
@@ -30,7 +30,7 @@ p {
 
 section {
 	border: 1px solid black;
-	background-color: #00FF99;
+	background-color: #F08080;
 	width: 100%;
 	height: 200px;
 	font-family: Arial;
@@ -50,7 +50,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #00ffd9;
+	background-color: #FFDAB9;
 
 }
 
@@ -65,7 +65,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #00ebc8;
+	background-color: #FFDAB9;
 
 	}
 
@@ -80,7 +80,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #00d8b8;
+	background-color: #FFDAB9;
 
 	}
 
