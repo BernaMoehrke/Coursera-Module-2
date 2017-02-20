@@ -152,6 +152,10 @@ section {
 	{float: left;
 
 	}
+		
+	.col-md-6 + .col-md-6 + .col-md-6 {
+		width: 100%;
+	}
 
 	.col-md-1 {width: 8.33%;
 	}
